@@ -46,7 +46,7 @@ telebot.types.Story.de_json = staticmethod(safe_story_de_json)
 
 # بيانات البوت والمسؤول
 BOT_TOKEN = "8525775899:AAHBTX1RROq9pfezzGcp3MxCXxJVChki6TM"
-ADMIN_ID = 6997272524 # الإدمن الرئيسي فقط
+ADMIN_ID = 6997272524,8101048402,5799397355 # الإدمن الرئيسي فقط
 
 # قائمة المسؤولين (الإدمن فقط)
 ADMIN_IDS = [6997272524,8101048402,5799397355]
