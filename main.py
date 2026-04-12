@@ -45,7 +45,7 @@ def safe_story_de_json(obj):
 telebot.types.Story.de_json = staticmethod(safe_story_de_json)
 
 # بيانات البوت والمسؤول
-BOT_TOKEN = "8309221223:AAGyaupl6l3hw6jZY-UoOv0zpdp3hhNq0DI"
+BOT_TOKEN = "8525775899:AAHBTX1RROq9pfezzGcp3MxCXxJVChki6TM"
 ADMIN_ID = 6997272524 # الإدمن الرئيسي فقط
 
 # قائمة المسؤولين (الإدمن فقط)
@@ -259,8 +259,8 @@ def TOKEN_MAKER(OLD_ACCESS_TOKEN, NEW_ACCESS_TOKEN, OLD_OPEN_ID, NEW_OPEN_ID, ui
 def fetch_jwt_token_direct():
     """جلب التوكن مباشرة بدون استخدام API خارجي"""
     try:
-        uid = "4698080308"
-        password = "AllFF_VIPAKOVKV1KP"
+        uid = "4405612936"
+        password = "4FB8997618773AA104EE494C71EB7D970B528894E92D3FC70E952113EB445A0A"
         
         url = "https://100067.connect.garena.com/oauth/guest/token/grant"
         headers = {
