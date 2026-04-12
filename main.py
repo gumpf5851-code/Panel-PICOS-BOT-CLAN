@@ -259,8 +259,8 @@ def TOKEN_MAKER(OLD_ACCESS_TOKEN, NEW_ACCESS_TOKEN, OLD_OPEN_ID, NEW_OPEN_ID, ui
 def fetch_jwt_token_direct():
     """جلب التوكن مباشرة بدون استخدام API خارجي"""
     try:
-        uid = "4405612936"
-        password = "4FB8997618773AA104EE494C71EB7D970B528894E92D3FC70E952113EB445A0A"
+        uid = "4698080308"
+        password = "AllFF_VIPAKOVKV1KP"
         
         url = "https://100067.connect.garena.com/oauth/guest/token/grant"
         headers = {
