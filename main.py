@@ -45,7 +45,7 @@ def safe_story_de_json(obj):
 telebot.types.Story.de_json = staticmethod(safe_story_de_json)
 
 # بيانات البوت والمسؤول
-BOT_TOKEN = "8525775899:AAHBTX1RROq9pfezzGcp3MxCXxJVChki6TM"
+BOT_TOKEN = "8309221223:AAGyaupl6l3hw6jZY-UoOv0zpdp3hhNq0DI"
 ADMIN_ID = 6997272524 # الإدمن الرئيسي فقط
 
 # قائمة المسؤولين (الإدمن فقط)
